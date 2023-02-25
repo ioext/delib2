@@ -1,2 +1,2 @@
 # delib
-Library by DeKuan, Inc.
+Library by ioext, Inc.

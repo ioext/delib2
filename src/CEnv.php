@@ -1,6 +1,6 @@
 <?php
 
-namespace dekuan\delib;
+namespace ioext\delib;
 
 
 /**
@@ -15,7 +15,7 @@ class CEnv
 	const ENV_LOCAL			= 4;	//	local
 	const ENV_TEST			= 5;	//	test
 
-	const ROOT_DOMAIN		= 'dekuan.org';
+	const ROOT_DOMAIN		= 'ioext.org';
 
 
 

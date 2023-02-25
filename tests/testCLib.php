@@ -1,7 +1,7 @@
 <?php
 
-namespace dekuan\delib;
-use dekuan\vdata\CConst;
+namespace ioext\delib;
+use ioext\vdata\CConst;
 
 
 /**

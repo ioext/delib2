@@ -1,6 +1,6 @@
 <?php
 
-namespace dekuan\delib;
+namespace ioext\delib;
 
 
 /**

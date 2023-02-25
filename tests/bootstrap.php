@@ -6,8 +6,8 @@ error_reporting(E_ALL | E_STRICT);
 $loader = require __DIR__ . '/../vendor/autoload.php';
 
 //	autoload abstract TestCase classes in test directory
-$loader->addPsr4( 'dekuan\\delib\\', __DIR__ );
-$loader->addPsr4( 'dekuan\\delib\\', __DIR__ . '/../src/' );
-$loader->addPsr4( 'dekuan\\vdata\\', __DIR__ . '/../vendor/dekuan/vdata/src/' );
-$loader->addPsr4( 'dekuan\\dedid\\', __DIR__ . '/../vendor/dekuan/dedid/src/' );
+$loader->addPsr4( 'ioext\\delib\\', __DIR__ );
+$loader->addPsr4( 'ioext\\delib\\', __DIR__ . '/../src/' );
+$loader->addPsr4( 'ioext\\vdata\\', __DIR__ . '/../vendor/ioext/vdata/src/' );
+$loader->addPsr4( 'ioext\\dedid\\', __DIR__ . '/../vendor/ioext/dedid/src/' );
 
